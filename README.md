@@ -10,7 +10,9 @@ Here’s a polished, professional description you can use for your GitHub profil
 🔹 Goals: Continuously learning, sharing knowledge, and collaborating on innovative ideas.  
 
 📫 Let's connect: 
-  🔹LinkedIn: https://www.linkedin.com/in/ASHUTOSH ANAND/
+  
+🔹LinkedIn: https://www.linkedin.com/in/ASHUTOSHANAND/
+🔹Portfolio: "C:\users\ashut\OneDrive\Desktop\HTML Projects\portfolio.html"
   
 
 
