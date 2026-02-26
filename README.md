@@ -8,7 +8,6 @@
 📫 Let's connect: 
   
 🔹LinkedIn: https://www.linkedin.com/in/ashutosh-anand-160353373
-🔹Portfolio: "C:\users\ashut\OneDrive\Desktop\HTML Projects\portfolio.html"
   
 
 
